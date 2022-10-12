@@ -5,6 +5,8 @@ I'm Enzo Rodriguez. a frontend developer with experience on the backend. I love 
 [![Linkedin Badge](https://img.shields.io/badge/-enzorod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-rod/)](https://www.linkedin.com/in/enzo-rod/)
 [![Gmail Badge](https://img.shields.io/badge/-me@enzorod.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@enzorod.com)](mailto:me@enzorod.com)
 
+Portfolio: https://enzorod.com
+
 
 ## ⚡ Technologies
 
