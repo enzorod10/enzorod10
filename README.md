@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Enzo Rodriguez. a frontend developer with experience on the backend. I love writing clean, maintainable code that then gets displayed on the web. Most of all, I enjoy learning the ins and outs of every aspect of programming. Find out more about me & feel free to connect with me here:
+I'm Enzo Rodriguez. a Software Developer. I love writing clean, maintainable code. Most of all, I enjoy learning the ins and outs of every aspect of programming. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-enzorod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-rod/)](https://www.linkedin.com/in/enzo-rod/)
 [![Gmail Badge](https://img.shields.io/badge/-me@enzorod.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@enzorod.com)](mailto:me@enzorod.com)
